@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+pywhatkit
+datetime
+pyaudio
+
+
+💡 *Note:* For `pyaudio`, you might need to install system‑specific wheels on Windows/Linux.
+
+
